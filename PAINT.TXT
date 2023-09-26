@@ -4,14 +4,14 @@
 ^WRIGHT^0 ... Right
 ^WUP^0 ...... Up
 ^WDOWN^0 .... Down
-^WB+Up^0 .... Color brush
-^WB+Down^0 .. Color brush
-^WB+Right^0 . BG Color
-^WB+Left^0 .. BG Color
-^WX+Up^0 .... Brush size
-^WX+Down^0 .. Brush size
-^WX+Right^0 . Step length
-^WX+Left^0 .. Step length
+^WB+Up^0 .... Next color brush
+^WB+Down^0 .. Prev color brush
+^WB+Right^0 . Next BG color
+^WB+Left^0 .. Prev BG color
+^WX+Up^0 .... Next brush size
+^WX+Down^0 .. Prev brush size
+^WX+Right^0 . Next step length
+^WX+Left^0 .. Prev step length
 ^WY^0 ....... quit
 
 Picture files must be
