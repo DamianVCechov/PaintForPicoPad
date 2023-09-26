@@ -1,0 +1,18 @@
+^YPaint for PicoPad^0
+
+^WLEFT^0 .... Left
+^WRIGHT^0 ... Right
+^WUP^0 ...... Up
+^WDOWN^0 .... Down
+^WB+Up^0 .... Color brush
+^WB+Down^0 .. Color brush
+^WB+Right^0 . BG Color
+^WB+Left^0 .. BG Color
+^WX+Up^0 .... Brush size
+^WX+Down^0 .. Brush size
+^WX+Right^0 . Step length
+^WX+Left^0 .. Step length
+^WY^0 ....... quit
+
+Picture files must be
+in the /PAINT directory!!!
