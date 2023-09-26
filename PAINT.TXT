@@ -12,7 +12,7 @@
 ^WX+Down^0 .. Prev brush size
 ^WX+Right^0 . Next step length
 ^WX+Left^0 .. Prev step length
-^WY^0 ....... quit
+^WY^0 ....... Save and quit
 
 Picture files must be
 in the /PAINT directory!!!
