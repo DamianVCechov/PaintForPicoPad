@@ -10,9 +10,9 @@ For immediate use the PAINT.UF2 file can be loaded directly into PicoPad or open
 
 - **Control by buttons:**
 ```
-Up	.............. Up
-Down	............ Down
-Right	............ Right
+Up  .............. Up
+Down  ............ Down
+Right ............ Right
 Left ............. Left
 B + Up ........... Next color brush
 B + Down ......... Prev Color brush
