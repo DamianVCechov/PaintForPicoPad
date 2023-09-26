@@ -2,6 +2,8 @@
 
 ![alt text](https://github.com/DamianVCechov/PaintForPicoPad/blob/main/PAINT.PNG)
 
+- **Usage**
+
 Important notice
 On the SD-Card, create the /PAINT folder in the main directory. The images will be saved there. And they will be loaded from it in slideview mode.
 
@@ -24,7 +26,7 @@ X + Up ........... Next Brush size
 X + Down ......... Prev Brush size
 X + Right ........ Next Step length
 X + Left ......... Prev Step length
-Y ................ quit to menu, in menu to bootloader
+Y ................ Save and quit to menu, in menu quit to bootloader
 
 Picture files must be
 in the /PAINT directory!!!
