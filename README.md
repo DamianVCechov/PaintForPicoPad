@@ -4,7 +4,7 @@
 
 - **Usage**
 
-Important notice
+Important notice:
 On the SD-Card, create the /PAINT folder in the main directory. The images will be saved there. And they will be loaded from it in slideview mode.
 
 For the actual compilation, clone the great PicoLibSDK from here https://github.com/Panda381/PicoLibSDK (tested version 1.05) and copy the PicoPad directory structure into it.
