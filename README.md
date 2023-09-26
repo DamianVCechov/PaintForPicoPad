@@ -1,5 +1,7 @@
 # Paint For PicoPad
 
+![alt text](https://github.com/DamianVCechov/PaintForPicoPad/blob/main/PAINT.PNG)
+
 Important notice
 On the SD-Card, create the /PAINT folder in the main directory. The images will be saved there. And they will be loaded from it in slideview mode.
 
